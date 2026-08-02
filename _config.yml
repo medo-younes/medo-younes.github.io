@@ -13,10 +13,10 @@ title                    : "Mohammad Younes's DS Portfolio"
 title_separator          : "-"
 name                     : &name "Mohammad"
 description              : &description "Mohammad's DS Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://mohammadyounes.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://medo-younes.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "medo-younes/mohammadyounes.github.io"
+repository               : "medo-younes/medo-younes.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,63 +24,26 @@ repository               : "medo-younes/mohammadyounes.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohammad Younes"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Geospatial Data Scientist specializing in environmental monitoring with remote sensing data."
+  location         : "Dubai, United Arab Emirates"
+  employer         : "Nabat"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mohammadyounes08@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=Rs5yh4UAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0009-0000-9124-2512"
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "medo-younes"
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  linkedin         : https://www.linkedin.com/in/mohammad-younes-406455b6/ # Username
+  medium           : https://medium.com/@mohammadyounes08# URL
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
