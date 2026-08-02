@@ -23,9 +23,8 @@ repository               : "medo-younes/medo-younes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Mohammad Younes"
-  pronouns         : # example: "she/her"  
   bio              : "Geospatial Data Scientist specializing in environmental monitoring with remote sensing data."
   location         : "Dubai, United Arab Emirates"
   employer         : "Nabat"
@@ -35,7 +34,6 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=Rs5yh4UAAAAJ&hl=en"
   orcid            : "https://orcid.org/0009-0000-9124-2512"
-
 
   # Repositories and software development
   github           : "medo-younes"
@@ -184,18 +182,14 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  
+
 
 
 # These settings control how pages and collections are included in the site
